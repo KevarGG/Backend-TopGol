@@ -4,5 +4,6 @@ public enum PaymentMethod {
     TARJETA,
     NEQUI,
     PSE,
-    CONTRAENTREGA
+    CONTRAENTREGA,
+    BREB
 }
